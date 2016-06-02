@@ -2,7 +2,7 @@
 
 On Unix run
 ```
-gradlew bootRun
+./gradlew bootRun
 ```
 
 On Windows run
